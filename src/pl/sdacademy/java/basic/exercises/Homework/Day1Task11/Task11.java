@@ -1,4 +1,4 @@
-package pl.sdacademy.java.basic.exercises.Homework.Day2Task11;
+package pl.sdacademy.java.basic.exercises.Homework.Day1Task11;
 
 import java.util.Random;
 import java.util.Scanner;
