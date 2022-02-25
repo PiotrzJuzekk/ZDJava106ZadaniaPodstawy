@@ -44,5 +44,4 @@ public class Task8 {
         }
         return newText;
     }
-
 }
